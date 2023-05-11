@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-05-11 23:35:54
+# 创建时间：2023-05-11 23:51:03
 # 使用模版：V2RaySE 默认模版
-# 节点数量：15
+# 节点数量：6
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -21,144 +21,81 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"🇹🇼_TW_台湾_1","type":"trojan","server":"165.154.243.201","port":443,"udp":true,"password":"05e34875-a77c-4156-8bc8-f815f235905a","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬_SG_新加坡_1","type":"trojan","server":"awssg4-tg-data.amazonwebservicess.com","port":443,"udp":true,"password":"05e34875-a77c-4156-8bc8-f815f235905a","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"198.2.204.249","port":46802,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸_US_美国_2","type":"ss","server":"34.219.142.90","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"🇹🇼_TW_台湾_2","type":"trojan","server":"stw7-tg-data.amazonwebservicess.com","port":443,"udp":true,"password":"05e34875-a77c-4156-8bc8-f815f235905a","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇬🇧_GB_英国","type":"vmess","server":"wfi.sahnama.com","port":80,"cipher":"auto","uuid":"61280f80-cd25-4c7b-8e5a-b1560617047a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
-  - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"new6.huvicloud.com","port":443,"cipher":"auto","uuid":"a11ca760-9ef9-4a63-95c9-4c5c32d56251","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
-  - {"name":"🇸🇬_SG_新加坡->🇹🇼_TW_台湾_1","type":"trojan","server":"stw6-tg-data.amazonwebservicess.com","port":443,"udp":true,"password":"05e34875-a77c-4156-8bc8-f815f235905a","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬_SG_新加坡->🇹🇼_TW_台湾_2","type":"trojan","server":"stw4-tg-data.amazonwebservicess.com","port":443,"udp":true,"password":"05e34875-a77c-4156-8bc8-f815f235905a","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇨🇳_CN_中国->🇧🇷_BR_巴西","type":"vmess","server":"t.cccao.cyou","port":16635,"cipher":"auto","uuid":"ad3f9bf7-d8d1-47df-a6bd-77ff50037339","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"t.cccao.cyou"}}}
-  - {"name":"🇮🇳_IN_印度","type":"trojan","server":"152.70.74.66","port":443,"udp":true,"password":"d906afe5-7c3c-4ddc-aaa4-61c154a82e5e","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_1","type":"ss","server":"14.29.124.168","port":24003,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
-  - {"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_2","type":"vmess","server":"223.167.41.216","port":63088,"cipher":"auto","uuid":"7feb22ed-8283-3313-a09f-c5dc1402333b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/mugua","headers":{"host":"tw-load-balancer.myn1des.com"}}}
-  - {"name":"🇸🇬_SG_新加坡_2","type":"trojan","server":"66.42.50.66","port":80,"udp":true,"password":"86523a68-b346-413c-ab61-85af7e36c3db","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸_US_美国_4","type":"vmess","server":"23.224.110.183","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"1_wid1","type":"vmess","server":"203.137.198.3","port":50000,"cipher":"auto","uuid":"a4cfe314-1b26-471c-8148-be5da022afaa","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"kcp"}
+  - {"name":"2_wid2","type":"vmess","server":"210.152.114.47","port":58663,"cipher":"auto","uuid":"43c13c48-da23-4732-adff-cf42d91a8bf8","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"kcp"}
+  - {"name":"3_vir11mo","type":"vmess","server":"80.96.157.75","port":48362,"cipher":"auto","uuid":"594da6d9-a1ee-4acb-8e90-98dc4718f0b7","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"kcp"}
+  - {"name":"4_vir9mo","type":"vmess","server":"80.96.157.76","port":64431,"cipher":"auto","uuid":"95b23abc-72c1-4819-b9ce-0fc592cde7ac","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"kcp"}
+  - {"name":"6_vir6","type":"vmess","server":"80.96.157.78","port":48739,"cipher":"auto","uuid":"24a13656-92db-4427-98f3-161af4f6656d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"kcp"}
+  - {"name":"7_ln1","type":"vmess","server":"38.54.56.249","port":31218,"cipher":"auto","uuid":"87eccfe2-8e5e-42b6-b1f8-a99c9b9e5b5b","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"kcp"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇹🇼_TW_台湾_2
-      - 🇬🇧_GB_英国
-      - 🇺🇸_US_美国_3
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_2
-      - 🇨🇳_CN_中国->🇧🇷_BR_巴西
-      - 🇮🇳_IN_印度
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_1
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_2
-      - 🇸🇬_SG_新加坡_2
-      - 🇺🇸_US_美国_4
+      - 1_wid1
+      - 2_wid2
+      - 3_vir11mo
+      - 4_vir9mo
+      - 6_vir6
+      - 7_ln1
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇹🇼_TW_台湾_2
-      - 🇬🇧_GB_英国
-      - 🇺🇸_US_美国_3
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_2
-      - 🇨🇳_CN_中国->🇧🇷_BR_巴西
-      - 🇮🇳_IN_印度
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_1
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_2
-      - 🇸🇬_SG_新加坡_2
-      - 🇺🇸_US_美国_4
+      - 1_wid1
+      - 2_wid2
+      - 3_vir11mo
+      - 4_vir9mo
+      - 6_vir6
+      - 7_ln1
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇹🇼_TW_台湾_2
-      - 🇬🇧_GB_英国
-      - 🇺🇸_US_美国_3
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_2
-      - 🇨🇳_CN_中国->🇧🇷_BR_巴西
-      - 🇮🇳_IN_印度
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_1
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_2
-      - 🇸🇬_SG_新加坡_2
-      - 🇺🇸_US_美国_4
+      - 1_wid1
+      - 2_wid2
+      - 3_vir11mo
+      - 4_vir9mo
+      - 6_vir6
+      - 7_ln1
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇹🇼_TW_台湾_2
-      - 🇬🇧_GB_英国
-      - 🇺🇸_US_美国_3
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_2
-      - 🇨🇳_CN_中国->🇧🇷_BR_巴西
-      - 🇮🇳_IN_印度
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_1
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_2
-      - 🇸🇬_SG_新加坡_2
-      - 🇺🇸_US_美国_4
+      - 1_wid1
+      - 2_wid2
+      - 3_vir11mo
+      - 4_vir9mo
+      - 6_vir6
+      - 7_ln1
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇹🇼_TW_台湾_2
-      - 🇬🇧_GB_英国
-      - 🇺🇸_US_美国_3
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_2
-      - 🇨🇳_CN_中国->🇧🇷_BR_巴西
-      - 🇮🇳_IN_印度
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_1
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_2
-      - 🇸🇬_SG_新加坡_2
-      - 🇺🇸_US_美国_4
+      - 1_wid1
+      - 2_wid2
+      - 3_vir11mo
+      - 4_vir9mo
+      - 6_vir6
+      - 7_ln1
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇹🇼_TW_台湾_2
-      - 🇬🇧_GB_英国
-      - 🇺🇸_US_美国_3
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_2
-      - 🇨🇳_CN_中国->🇧🇷_BR_巴西
-      - 🇮🇳_IN_印度
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_1
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_2
-      - 🇸🇬_SG_新加坡_2
-      - 🇺🇸_US_美国_4
+      - 1_wid1
+      - 2_wid2
+      - 3_vir11mo
+      - 4_vir9mo
+      - 6_vir6
+      - 7_ln1
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -181,21 +118,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡_1
-      - 🇺🇸_US_美国_1
-      - 🇺🇸_US_美国_2
-      - 🇹🇼_TW_台湾_2
-      - 🇬🇧_GB_英国
-      - 🇺🇸_US_美国_3
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_1
-      - 🇸🇬_SG_新加坡->🇹🇼_TW_台湾_2
-      - 🇨🇳_CN_中国->🇧🇷_BR_巴西
-      - 🇮🇳_IN_印度
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_1
-      - 🇨🇳_CN_中国->🇹🇼_TW_台湾_2
-      - 🇸🇬_SG_新加坡_2
-      - 🇺🇸_US_美国_4
+      - 1_wid1
+      - 2_wid2
+      - 3_vir11mo
+      - 4_vir9mo
+      - 6_vir6
+      - 7_ln1
 
 rules:
 # 本地/局域网地址
