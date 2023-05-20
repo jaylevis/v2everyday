@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-05-20 23:14:44
+# 创建时间：2023-05-20 23:17:16
 # 使用模版：V2RaySE 默认模版
 # 节点数量：74
 ####################################
@@ -28,16 +28,16 @@ proxies:
   - {"name":"V1-IPLC日01|v2ray","type":"vmess","server":"jp.v1.j.v4.2.kiki789.com","port":39407,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V1-IPLC日02|v2ray","type":"vmess","server":"jp.v1.j.v4.2.kiki789.com","port":39415,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V1-IPLC美01|v2ray","type":"vmess","server":"jp.v1.j.v4.2.kiki789.com","port":39605,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
-  - {"name":"V1-俄罗斯01|v2ray","type":"vmess","server":"v1.j.v4.2.kiki789.com","port":39313,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
-  - {"name":"V1-俄罗斯02|v2ray","type":"vmess","server":"v1.j.v4.2.kiki789.com","port":39315,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V1-广台奈飞专用01|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":31861,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V1-新加坡HKG01|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":29857,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V1-新加坡OVH01|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":31877,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
-  - {"name":"V1-新加坡OVH02|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":39501,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V1-新加坡OVH03|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":39553,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V1-新加坡解锁01|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":39563,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V1-新加坡解锁02|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":39565,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V1-日本BTEC01解锁奈飞|v2ray","type":"vmess","server":"ahyd.kiki789.com","port":39457,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
+  - {"name":"V1-法国01|v2ray","type":"vmess","server":"v1.j.v4.2.kiki789.com","port":39313,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
+  - {"name":"V1-美国OVH02|v2ray","type":"vmess","server":"ahyd.kiki789.com","port":39501,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
+  - {"name":"V1-美国洛杉矶02|v2ray","type":"vmess","server":"v1.j.v4.2.kiki789.com","port":39315,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V1-香港HKG01解锁奈飞|v2ray","type":"vmess","server":"styd.kiki789.com","port":29891,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V1-香港非解锁自有机房01|v2ray","type":"vmess","server":"cccn.kiki789.com","port":29719,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V2-CN2台01|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":39205,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
@@ -45,19 +45,17 @@ proxies:
   - {"name":"V2-CN2日01|v2ray","type":"vmess","server":"jp.v2.j.v4.2.kiki789.com","port":39405,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
   - {"name":"V2-CN2日02|v2ray","type":"vmess","server":"jp.v2.j.v4.2.kiki789.com","port":39413,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
   - {"name":"V2-CN2美01|v2ray","type":"vmess","server":"jp.v1.j.v4.2.kiki789.com","port":32603,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
-  - {"name":"V2-俄罗斯01|v2ray","type":"vmess","server":"v2.j.v4.2.kiki789.com","port":39399,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
-  - {"name":"V2-俄罗斯02|v2ray","type":"vmess","server":"v2.j.v4.2.kiki789.com","port":39391,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
   - {"name":"V2-新加坡HKG01|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":29855,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
   - {"name":"V2-新加坡OVH01|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":31875,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
-  - {"name":"V2-新加坡OVH02|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":38559,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
   - {"name":"V2-新加坡OVH03|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":39561,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
   - {"name":"V2-新加坡解锁01|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":39509,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
   - {"name":"V2-新加坡解锁02|v2ray","type":"vmess","server":"4e36nodev1.jcdn1.kiki789.com","port":38511,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
   - {"name":"V2-日本BTEC01解锁奈飞|v2ray","type":"vmess","server":"ahyd.kiki789.com","port":39455,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
+  - {"name":"V2-法国01|v2ray","type":"vmess","server":"v2.j.v4.2.kiki789.com","port":39399,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
+  - {"name":"V2-美国OVH02|v2ray","type":"vmess","server":"ahyd.kiki789.com","port":38559,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
+  - {"name":"V2-美国洛杉矶02|v2ray","type":"vmess","server":"v2.j.v4.2.kiki789.com","port":39391,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
   - {"name":"V2-香港HKG01解锁奈飞|v2ray","type":"vmess","server":"styd.kiki789.com","port":31721,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V2-香港非解锁自有机房01|v2ray","type":"vmess","server":"cccn.kiki789.com","port":29717,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
-  - {"name":"V3-俄罗斯01|v2ray","type":"vmess","server":"j.v3.2.kiki789.com","port":39395,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
-  - {"name":"V3-俄罗斯02|v2ray","type":"vmess","server":"j.v3.2.kiki789.com","port":39397,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-广台01|v2ray","type":"vmess","server":"g.j.v3.1.kiki789.com","port":39203,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-广台02|v2ray","type":"vmess","server":"g.j.v3.1.kiki789.com","port":39213,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-广日01|v2ray","type":"vmess","server":"jp.j.v3.2.kiki789.com","port":39403,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
@@ -66,19 +64,18 @@ proxies:
   - {"name":"V3-新加坡OVH01|v2ray","type":"vmess","server":"ovhsg.v4.kiki789.com","port":31873,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-新加坡OVH02|v2ray","type":"vmess","server":"ovhsg.v4.kiki789.com","port":38555,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-新加坡OVH03|v2ray","type":"vmess","server":"ovhsg.v4.kiki789.com","port":39571,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
-  - {"name":"V3-新加坡OVH04|v2ray","type":"vmess","server":"ovhsg.v4.kiki789.com","port":39595,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-新加坡OVH05|v2ray","type":"vmess","server":"ovhsg.v4.kiki789.com","port":38507,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-新加坡解锁01|v2ray","type":"vmess","server":"j.v4.2.kiki789.com","port":39573,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-新加坡解锁02|v2ray","type":"vmess","server":"j.v4.2.kiki789.com","port":39557,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-日本BTEC01解锁奈飞|v2ray","type":"vmess","server":"ahyd.kiki789.com","port":39453,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-日本BTEC02解锁奈飞|v2ray","type":"vmess","server":"ahyd.kiki789.com","port":29709,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-沪日02|v2ray","type":"vmess","server":"jp.j.v3.2.kiki789.com","port":39411,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
+  - {"name":"V3-法国01|v2ray","type":"vmess","server":"j.v3.2.kiki789.com","port":39395,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
+  - {"name":"V3-美国OVH04|v2ray","type":"vmess","server":"ahyd.kiki789.com","port":39595,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
+  - {"name":"V3-美国洛杉矶02|v2ray","type":"vmess","server":"j.v3.2.kiki789.com","port":39397,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V3-香港HKG01解锁奈飞|v2ray","type":"vmess","server":"styd.kiki789.com","port":39451,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V3-香港HKG02解锁奈飞|v2ray","type":"vmess","server":"styd.kiki789.com","port":29707,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V3-香港非解锁自有机房01|v2ray","type":"vmess","server":"cccn.kiki789.com","port":31723,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
-  - {"name":"V4-俄罗斯01|v2ray","type":"vmess","server":"j.v3.2.kiki789.com","port":29893,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
-  - {"name":"V4-俄罗斯02|v2ray","type":"vmess","server":"v2.j.v4.2.kiki789.com","port":27805,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
-  - {"name":"V4-俄罗斯03|v2ray","type":"vmess","server":"v1.j.v4.2.kiki789.com","port":29807,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V4-台湾01|v2ray","type":"vmess","server":"g.j.v4.1.kiki789.com","port":39201,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V4-台湾02|v2ray","type":"vmess","server":"g.j.v4.1.kiki789.com","port":39211,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V4-广日01|v2ray","type":"vmess","server":"jp.j.v4.2.kiki789.com","port":39401,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
@@ -86,11 +83,14 @@ proxies:
   - {"name":"V4-新加坡OVH01|v2ray","type":"vmess","server":"v.ovhsg.v4.kiki789.com","port":31871,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V4-新加坡OVH02|v2ray","type":"vmess","server":"v.ovhsg.v4.kiki789.com","port":38567,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V4-新加坡OVH03|v2ray","type":"vmess","server":"v.ovhsg.v4.kiki789.com","port":39569,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
-  - {"name":"V4-新加坡OVH04|v2ray","type":"vmess","server":"v.ovhsg.v4.kiki789.com","port":38551,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V4-新加坡解锁01|v2ray","type":"vmess","server":"j.v4.2.kiki789.com","port":39503,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V4-日本BTEC01解锁奈飞|v2ray","type":"vmess","server":"ahyd.kiki789.com","port":29705,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V4-日本BTEC02解锁奈飞|v2ray","type":"vmess","server":"ahyd.kiki789.com","port":29711,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
   - {"name":"V4-沪日02|v2ray","type":"vmess","server":"jp.j.v4.2.kiki789.com","port":39409,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
+  - {"name":"V4-法国01|v2ray","type":"vmess","server":"j.v3.2.kiki789.com","port":29893,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8"}}
+  - {"name":"V4-美国OVH04|v2ray","type":"vmess","server":"ahyd.kiki789.com","port":38551,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
+  - {"name":"V4-美国洛杉矶02|v2ray","type":"vmess","server":"v2.j.v4.2.kiki789.com","port":27805,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
+  - {"name":"V4-美国洛杉矶03|v2ray","type":"vmess","server":"v1.j.v4.2.kiki789.com","port":29807,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/62a88e27-2b1f-462f-8e4a-3e1359ac805c.live238.m3u8"}}
   - {"name":"V4-香港HKG01解锁奈飞|v2ray","type":"vmess","server":"styd.kiki789.com","port":39999,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V4-香港HKG02解锁奈飞|v2ray","type":"vmess","server":"styd.kiki789.com","port":31303,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8"}}
   - {"name":"V4-香港非解锁自有机房01|v2ray","type":"vmess","server":"cccn.kiki789.com","port":9713,"cipher":"auto","uuid":"a1c998ec-593b-3021-9f0a-cc5939fa8d50","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/90ef180b-38c8-4eb1-9c97-9ff4030ac8f5.live238.m3u8"}}
@@ -108,16 +108,16 @@ proxy-groups:
       - V1-IPLC日01|v2ray
       - V1-IPLC日02|v2ray
       - V1-IPLC美01|v2ray
-      - V1-俄罗斯01|v2ray
-      - V1-俄罗斯02|v2ray
       - V1-广台奈飞专用01|v2ray
       - V1-新加坡HKG01|v2ray
       - V1-新加坡OVH01|v2ray
-      - V1-新加坡OVH02|v2ray
       - V1-新加坡OVH03|v2ray
       - V1-新加坡解锁01|v2ray
       - V1-新加坡解锁02|v2ray
       - V1-日本BTEC01解锁奈飞|v2ray
+      - V1-法国01|v2ray
+      - V1-美国OVH02|v2ray
+      - V1-美国洛杉矶02|v2ray
       - V1-香港HKG01解锁奈飞|v2ray
       - V1-香港非解锁自有机房01|v2ray
       - V2-CN2台01|v2ray
@@ -125,19 +125,17 @@ proxy-groups:
       - V2-CN2日01|v2ray
       - V2-CN2日02|v2ray
       - V2-CN2美01|v2ray
-      - V2-俄罗斯01|v2ray
-      - V2-俄罗斯02|v2ray
       - V2-新加坡HKG01|v2ray
       - V2-新加坡OVH01|v2ray
-      - V2-新加坡OVH02|v2ray
       - V2-新加坡OVH03|v2ray
       - V2-新加坡解锁01|v2ray
       - V2-新加坡解锁02|v2ray
       - V2-日本BTEC01解锁奈飞|v2ray
+      - V2-法国01|v2ray
+      - V2-美国OVH02|v2ray
+      - V2-美国洛杉矶02|v2ray
       - V2-香港HKG01解锁奈飞|v2ray
       - V2-香港非解锁自有机房01|v2ray
-      - V3-俄罗斯01|v2ray
-      - V3-俄罗斯02|v2ray
       - V3-广台01|v2ray
       - V3-广台02|v2ray
       - V3-广日01|v2ray
@@ -146,19 +144,18 @@ proxy-groups:
       - V3-新加坡OVH01|v2ray
       - V3-新加坡OVH02|v2ray
       - V3-新加坡OVH03|v2ray
-      - V3-新加坡OVH04|v2ray
       - V3-新加坡OVH05|v2ray
       - V3-新加坡解锁01|v2ray
       - V3-新加坡解锁02|v2ray
       - V3-日本BTEC01解锁奈飞|v2ray
       - V3-日本BTEC02解锁奈飞|v2ray
       - V3-沪日02|v2ray
+      - V3-法国01|v2ray
+      - V3-美国OVH04|v2ray
+      - V3-美国洛杉矶02|v2ray
       - V3-香港HKG01解锁奈飞|v2ray
       - V3-香港HKG02解锁奈飞|v2ray
       - V3-香港非解锁自有机房01|v2ray
-      - V4-俄罗斯01|v2ray
-      - V4-俄罗斯02|v2ray
-      - V4-俄罗斯03|v2ray
       - V4-台湾01|v2ray
       - V4-台湾02|v2ray
       - V4-广日01|v2ray
@@ -166,11 +163,14 @@ proxy-groups:
       - V4-新加坡OVH01|v2ray
       - V4-新加坡OVH02|v2ray
       - V4-新加坡OVH03|v2ray
-      - V4-新加坡OVH04|v2ray
       - V4-新加坡解锁01|v2ray
       - V4-日本BTEC01解锁奈飞|v2ray
       - V4-日本BTEC02解锁奈飞|v2ray
       - V4-沪日02|v2ray
+      - V4-法国01|v2ray
+      - V4-美国OVH04|v2ray
+      - V4-美国洛杉矶02|v2ray
+      - V4-美国洛杉矶03|v2ray
       - V4-香港HKG01解锁奈飞|v2ray
       - V4-香港HKG02解锁奈飞|v2ray
       - V4-香港非解锁自有机房01|v2ray
@@ -188,16 +188,16 @@ proxy-groups:
       - V1-IPLC日01|v2ray
       - V1-IPLC日02|v2ray
       - V1-IPLC美01|v2ray
-      - V1-俄罗斯01|v2ray
-      - V1-俄罗斯02|v2ray
       - V1-广台奈飞专用01|v2ray
       - V1-新加坡HKG01|v2ray
       - V1-新加坡OVH01|v2ray
-      - V1-新加坡OVH02|v2ray
       - V1-新加坡OVH03|v2ray
       - V1-新加坡解锁01|v2ray
       - V1-新加坡解锁02|v2ray
       - V1-日本BTEC01解锁奈飞|v2ray
+      - V1-法国01|v2ray
+      - V1-美国OVH02|v2ray
+      - V1-美国洛杉矶02|v2ray
       - V1-香港HKG01解锁奈飞|v2ray
       - V1-香港非解锁自有机房01|v2ray
       - V2-CN2台01|v2ray
@@ -205,19 +205,17 @@ proxy-groups:
       - V2-CN2日01|v2ray
       - V2-CN2日02|v2ray
       - V2-CN2美01|v2ray
-      - V2-俄罗斯01|v2ray
-      - V2-俄罗斯02|v2ray
       - V2-新加坡HKG01|v2ray
       - V2-新加坡OVH01|v2ray
-      - V2-新加坡OVH02|v2ray
       - V2-新加坡OVH03|v2ray
       - V2-新加坡解锁01|v2ray
       - V2-新加坡解锁02|v2ray
       - V2-日本BTEC01解锁奈飞|v2ray
+      - V2-法国01|v2ray
+      - V2-美国OVH02|v2ray
+      - V2-美国洛杉矶02|v2ray
       - V2-香港HKG01解锁奈飞|v2ray
       - V2-香港非解锁自有机房01|v2ray
-      - V3-俄罗斯01|v2ray
-      - V3-俄罗斯02|v2ray
       - V3-广台01|v2ray
       - V3-广台02|v2ray
       - V3-广日01|v2ray
@@ -226,19 +224,18 @@ proxy-groups:
       - V3-新加坡OVH01|v2ray
       - V3-新加坡OVH02|v2ray
       - V3-新加坡OVH03|v2ray
-      - V3-新加坡OVH04|v2ray
       - V3-新加坡OVH05|v2ray
       - V3-新加坡解锁01|v2ray
       - V3-新加坡解锁02|v2ray
       - V3-日本BTEC01解锁奈飞|v2ray
       - V3-日本BTEC02解锁奈飞|v2ray
       - V3-沪日02|v2ray
+      - V3-法国01|v2ray
+      - V3-美国OVH04|v2ray
+      - V3-美国洛杉矶02|v2ray
       - V3-香港HKG01解锁奈飞|v2ray
       - V3-香港HKG02解锁奈飞|v2ray
       - V3-香港非解锁自有机房01|v2ray
-      - V4-俄罗斯01|v2ray
-      - V4-俄罗斯02|v2ray
-      - V4-俄罗斯03|v2ray
       - V4-台湾01|v2ray
       - V4-台湾02|v2ray
       - V4-广日01|v2ray
@@ -246,11 +243,14 @@ proxy-groups:
       - V4-新加坡OVH01|v2ray
       - V4-新加坡OVH02|v2ray
       - V4-新加坡OVH03|v2ray
-      - V4-新加坡OVH04|v2ray
       - V4-新加坡解锁01|v2ray
       - V4-日本BTEC01解锁奈飞|v2ray
       - V4-日本BTEC02解锁奈飞|v2ray
       - V4-沪日02|v2ray
+      - V4-法国01|v2ray
+      - V4-美国OVH04|v2ray
+      - V4-美国洛杉矶02|v2ray
+      - V4-美国洛杉矶03|v2ray
       - V4-香港HKG01解锁奈飞|v2ray
       - V4-香港HKG02解锁奈飞|v2ray
       - V4-香港非解锁自有机房01|v2ray
@@ -268,16 +268,16 @@ proxy-groups:
       - V1-IPLC日01|v2ray
       - V1-IPLC日02|v2ray
       - V1-IPLC美01|v2ray
-      - V1-俄罗斯01|v2ray
-      - V1-俄罗斯02|v2ray
       - V1-广台奈飞专用01|v2ray
       - V1-新加坡HKG01|v2ray
       - V1-新加坡OVH01|v2ray
-      - V1-新加坡OVH02|v2ray
       - V1-新加坡OVH03|v2ray
       - V1-新加坡解锁01|v2ray
       - V1-新加坡解锁02|v2ray
       - V1-日本BTEC01解锁奈飞|v2ray
+      - V1-法国01|v2ray
+      - V1-美国OVH02|v2ray
+      - V1-美国洛杉矶02|v2ray
       - V1-香港HKG01解锁奈飞|v2ray
       - V1-香港非解锁自有机房01|v2ray
       - V2-CN2台01|v2ray
@@ -285,19 +285,17 @@ proxy-groups:
       - V2-CN2日01|v2ray
       - V2-CN2日02|v2ray
       - V2-CN2美01|v2ray
-      - V2-俄罗斯01|v2ray
-      - V2-俄罗斯02|v2ray
       - V2-新加坡HKG01|v2ray
       - V2-新加坡OVH01|v2ray
-      - V2-新加坡OVH02|v2ray
       - V2-新加坡OVH03|v2ray
       - V2-新加坡解锁01|v2ray
       - V2-新加坡解锁02|v2ray
       - V2-日本BTEC01解锁奈飞|v2ray
+      - V2-法国01|v2ray
+      - V2-美国OVH02|v2ray
+      - V2-美国洛杉矶02|v2ray
       - V2-香港HKG01解锁奈飞|v2ray
       - V2-香港非解锁自有机房01|v2ray
-      - V3-俄罗斯01|v2ray
-      - V3-俄罗斯02|v2ray
       - V3-广台01|v2ray
       - V3-广台02|v2ray
       - V3-广日01|v2ray
@@ -306,19 +304,18 @@ proxy-groups:
       - V3-新加坡OVH01|v2ray
       - V3-新加坡OVH02|v2ray
       - V3-新加坡OVH03|v2ray
-      - V3-新加坡OVH04|v2ray
       - V3-新加坡OVH05|v2ray
       - V3-新加坡解锁01|v2ray
       - V3-新加坡解锁02|v2ray
       - V3-日本BTEC01解锁奈飞|v2ray
       - V3-日本BTEC02解锁奈飞|v2ray
       - V3-沪日02|v2ray
+      - V3-法国01|v2ray
+      - V3-美国OVH04|v2ray
+      - V3-美国洛杉矶02|v2ray
       - V3-香港HKG01解锁奈飞|v2ray
       - V3-香港HKG02解锁奈飞|v2ray
       - V3-香港非解锁自有机房01|v2ray
-      - V4-俄罗斯01|v2ray
-      - V4-俄罗斯02|v2ray
-      - V4-俄罗斯03|v2ray
       - V4-台湾01|v2ray
       - V4-台湾02|v2ray
       - V4-广日01|v2ray
@@ -326,11 +323,14 @@ proxy-groups:
       - V4-新加坡OVH01|v2ray
       - V4-新加坡OVH02|v2ray
       - V4-新加坡OVH03|v2ray
-      - V4-新加坡OVH04|v2ray
       - V4-新加坡解锁01|v2ray
       - V4-日本BTEC01解锁奈飞|v2ray
       - V4-日本BTEC02解锁奈飞|v2ray
       - V4-沪日02|v2ray
+      - V4-法国01|v2ray
+      - V4-美国OVH04|v2ray
+      - V4-美国洛杉矶02|v2ray
+      - V4-美国洛杉矶03|v2ray
       - V4-香港HKG01解锁奈飞|v2ray
       - V4-香港HKG02解锁奈飞|v2ray
       - V4-香港非解锁自有机房01|v2ray
@@ -347,16 +347,16 @@ proxy-groups:
       - V1-IPLC日01|v2ray
       - V1-IPLC日02|v2ray
       - V1-IPLC美01|v2ray
-      - V1-俄罗斯01|v2ray
-      - V1-俄罗斯02|v2ray
       - V1-广台奈飞专用01|v2ray
       - V1-新加坡HKG01|v2ray
       - V1-新加坡OVH01|v2ray
-      - V1-新加坡OVH02|v2ray
       - V1-新加坡OVH03|v2ray
       - V1-新加坡解锁01|v2ray
       - V1-新加坡解锁02|v2ray
       - V1-日本BTEC01解锁奈飞|v2ray
+      - V1-法国01|v2ray
+      - V1-美国OVH02|v2ray
+      - V1-美国洛杉矶02|v2ray
       - V1-香港HKG01解锁奈飞|v2ray
       - V1-香港非解锁自有机房01|v2ray
       - V2-CN2台01|v2ray
@@ -364,19 +364,17 @@ proxy-groups:
       - V2-CN2日01|v2ray
       - V2-CN2日02|v2ray
       - V2-CN2美01|v2ray
-      - V2-俄罗斯01|v2ray
-      - V2-俄罗斯02|v2ray
       - V2-新加坡HKG01|v2ray
       - V2-新加坡OVH01|v2ray
-      - V2-新加坡OVH02|v2ray
       - V2-新加坡OVH03|v2ray
       - V2-新加坡解锁01|v2ray
       - V2-新加坡解锁02|v2ray
       - V2-日本BTEC01解锁奈飞|v2ray
+      - V2-法国01|v2ray
+      - V2-美国OVH02|v2ray
+      - V2-美国洛杉矶02|v2ray
       - V2-香港HKG01解锁奈飞|v2ray
       - V2-香港非解锁自有机房01|v2ray
-      - V3-俄罗斯01|v2ray
-      - V3-俄罗斯02|v2ray
       - V3-广台01|v2ray
       - V3-广台02|v2ray
       - V3-广日01|v2ray
@@ -385,19 +383,18 @@ proxy-groups:
       - V3-新加坡OVH01|v2ray
       - V3-新加坡OVH02|v2ray
       - V3-新加坡OVH03|v2ray
-      - V3-新加坡OVH04|v2ray
       - V3-新加坡OVH05|v2ray
       - V3-新加坡解锁01|v2ray
       - V3-新加坡解锁02|v2ray
       - V3-日本BTEC01解锁奈飞|v2ray
       - V3-日本BTEC02解锁奈飞|v2ray
       - V3-沪日02|v2ray
+      - V3-法国01|v2ray
+      - V3-美国OVH04|v2ray
+      - V3-美国洛杉矶02|v2ray
       - V3-香港HKG01解锁奈飞|v2ray
       - V3-香港HKG02解锁奈飞|v2ray
       - V3-香港非解锁自有机房01|v2ray
-      - V4-俄罗斯01|v2ray
-      - V4-俄罗斯02|v2ray
-      - V4-俄罗斯03|v2ray
       - V4-台湾01|v2ray
       - V4-台湾02|v2ray
       - V4-广日01|v2ray
@@ -405,11 +402,14 @@ proxy-groups:
       - V4-新加坡OVH01|v2ray
       - V4-新加坡OVH02|v2ray
       - V4-新加坡OVH03|v2ray
-      - V4-新加坡OVH04|v2ray
       - V4-新加坡解锁01|v2ray
       - V4-日本BTEC01解锁奈飞|v2ray
       - V4-日本BTEC02解锁奈飞|v2ray
       - V4-沪日02|v2ray
+      - V4-法国01|v2ray
+      - V4-美国OVH04|v2ray
+      - V4-美国洛杉矶02|v2ray
+      - V4-美国洛杉矶03|v2ray
       - V4-香港HKG01解锁奈飞|v2ray
       - V4-香港HKG02解锁奈飞|v2ray
       - V4-香港非解锁自有机房01|v2ray
@@ -426,16 +426,16 @@ proxy-groups:
       - V1-IPLC日01|v2ray
       - V1-IPLC日02|v2ray
       - V1-IPLC美01|v2ray
-      - V1-俄罗斯01|v2ray
-      - V1-俄罗斯02|v2ray
       - V1-广台奈飞专用01|v2ray
       - V1-新加坡HKG01|v2ray
       - V1-新加坡OVH01|v2ray
-      - V1-新加坡OVH02|v2ray
       - V1-新加坡OVH03|v2ray
       - V1-新加坡解锁01|v2ray
       - V1-新加坡解锁02|v2ray
       - V1-日本BTEC01解锁奈飞|v2ray
+      - V1-法国01|v2ray
+      - V1-美国OVH02|v2ray
+      - V1-美国洛杉矶02|v2ray
       - V1-香港HKG01解锁奈飞|v2ray
       - V1-香港非解锁自有机房01|v2ray
       - V2-CN2台01|v2ray
@@ -443,19 +443,17 @@ proxy-groups:
       - V2-CN2日01|v2ray
       - V2-CN2日02|v2ray
       - V2-CN2美01|v2ray
-      - V2-俄罗斯01|v2ray
-      - V2-俄罗斯02|v2ray
       - V2-新加坡HKG01|v2ray
       - V2-新加坡OVH01|v2ray
-      - V2-新加坡OVH02|v2ray
       - V2-新加坡OVH03|v2ray
       - V2-新加坡解锁01|v2ray
       - V2-新加坡解锁02|v2ray
       - V2-日本BTEC01解锁奈飞|v2ray
+      - V2-法国01|v2ray
+      - V2-美国OVH02|v2ray
+      - V2-美国洛杉矶02|v2ray
       - V2-香港HKG01解锁奈飞|v2ray
       - V2-香港非解锁自有机房01|v2ray
-      - V3-俄罗斯01|v2ray
-      - V3-俄罗斯02|v2ray
       - V3-广台01|v2ray
       - V3-广台02|v2ray
       - V3-广日01|v2ray
@@ -464,19 +462,18 @@ proxy-groups:
       - V3-新加坡OVH01|v2ray
       - V3-新加坡OVH02|v2ray
       - V3-新加坡OVH03|v2ray
-      - V3-新加坡OVH04|v2ray
       - V3-新加坡OVH05|v2ray
       - V3-新加坡解锁01|v2ray
       - V3-新加坡解锁02|v2ray
       - V3-日本BTEC01解锁奈飞|v2ray
       - V3-日本BTEC02解锁奈飞|v2ray
       - V3-沪日02|v2ray
+      - V3-法国01|v2ray
+      - V3-美国OVH04|v2ray
+      - V3-美国洛杉矶02|v2ray
       - V3-香港HKG01解锁奈飞|v2ray
       - V3-香港HKG02解锁奈飞|v2ray
       - V3-香港非解锁自有机房01|v2ray
-      - V4-俄罗斯01|v2ray
-      - V4-俄罗斯02|v2ray
-      - V4-俄罗斯03|v2ray
       - V4-台湾01|v2ray
       - V4-台湾02|v2ray
       - V4-广日01|v2ray
@@ -484,11 +481,14 @@ proxy-groups:
       - V4-新加坡OVH01|v2ray
       - V4-新加坡OVH02|v2ray
       - V4-新加坡OVH03|v2ray
-      - V4-新加坡OVH04|v2ray
       - V4-新加坡解锁01|v2ray
       - V4-日本BTEC01解锁奈飞|v2ray
       - V4-日本BTEC02解锁奈飞|v2ray
       - V4-沪日02|v2ray
+      - V4-法国01|v2ray
+      - V4-美国OVH04|v2ray
+      - V4-美国洛杉矶02|v2ray
+      - V4-美国洛杉矶03|v2ray
       - V4-香港HKG01解锁奈飞|v2ray
       - V4-香港HKG02解锁奈飞|v2ray
       - V4-香港非解锁自有机房01|v2ray
@@ -505,16 +505,16 @@ proxy-groups:
       - V1-IPLC日01|v2ray
       - V1-IPLC日02|v2ray
       - V1-IPLC美01|v2ray
-      - V1-俄罗斯01|v2ray
-      - V1-俄罗斯02|v2ray
       - V1-广台奈飞专用01|v2ray
       - V1-新加坡HKG01|v2ray
       - V1-新加坡OVH01|v2ray
-      - V1-新加坡OVH02|v2ray
       - V1-新加坡OVH03|v2ray
       - V1-新加坡解锁01|v2ray
       - V1-新加坡解锁02|v2ray
       - V1-日本BTEC01解锁奈飞|v2ray
+      - V1-法国01|v2ray
+      - V1-美国OVH02|v2ray
+      - V1-美国洛杉矶02|v2ray
       - V1-香港HKG01解锁奈飞|v2ray
       - V1-香港非解锁自有机房01|v2ray
       - V2-CN2台01|v2ray
@@ -522,19 +522,17 @@ proxy-groups:
       - V2-CN2日01|v2ray
       - V2-CN2日02|v2ray
       - V2-CN2美01|v2ray
-      - V2-俄罗斯01|v2ray
-      - V2-俄罗斯02|v2ray
       - V2-新加坡HKG01|v2ray
       - V2-新加坡OVH01|v2ray
-      - V2-新加坡OVH02|v2ray
       - V2-新加坡OVH03|v2ray
       - V2-新加坡解锁01|v2ray
       - V2-新加坡解锁02|v2ray
       - V2-日本BTEC01解锁奈飞|v2ray
+      - V2-法国01|v2ray
+      - V2-美国OVH02|v2ray
+      - V2-美国洛杉矶02|v2ray
       - V2-香港HKG01解锁奈飞|v2ray
       - V2-香港非解锁自有机房01|v2ray
-      - V3-俄罗斯01|v2ray
-      - V3-俄罗斯02|v2ray
       - V3-广台01|v2ray
       - V3-广台02|v2ray
       - V3-广日01|v2ray
@@ -543,19 +541,18 @@ proxy-groups:
       - V3-新加坡OVH01|v2ray
       - V3-新加坡OVH02|v2ray
       - V3-新加坡OVH03|v2ray
-      - V3-新加坡OVH04|v2ray
       - V3-新加坡OVH05|v2ray
       - V3-新加坡解锁01|v2ray
       - V3-新加坡解锁02|v2ray
       - V3-日本BTEC01解锁奈飞|v2ray
       - V3-日本BTEC02解锁奈飞|v2ray
       - V3-沪日02|v2ray
+      - V3-法国01|v2ray
+      - V3-美国OVH04|v2ray
+      - V3-美国洛杉矶02|v2ray
       - V3-香港HKG01解锁奈飞|v2ray
       - V3-香港HKG02解锁奈飞|v2ray
       - V3-香港非解锁自有机房01|v2ray
-      - V4-俄罗斯01|v2ray
-      - V4-俄罗斯02|v2ray
-      - V4-俄罗斯03|v2ray
       - V4-台湾01|v2ray
       - V4-台湾02|v2ray
       - V4-广日01|v2ray
@@ -563,11 +560,14 @@ proxy-groups:
       - V4-新加坡OVH01|v2ray
       - V4-新加坡OVH02|v2ray
       - V4-新加坡OVH03|v2ray
-      - V4-新加坡OVH04|v2ray
       - V4-新加坡解锁01|v2ray
       - V4-日本BTEC01解锁奈飞|v2ray
       - V4-日本BTEC02解锁奈飞|v2ray
       - V4-沪日02|v2ray
+      - V4-法国01|v2ray
+      - V4-美国OVH04|v2ray
+      - V4-美国洛杉矶02|v2ray
+      - V4-美国洛杉矶03|v2ray
       - V4-香港HKG01解锁奈飞|v2ray
       - V4-香港HKG02解锁奈飞|v2ray
       - V4-香港非解锁自有机房01|v2ray
@@ -601,16 +601,16 @@ proxy-groups:
       - V1-IPLC日01|v2ray
       - V1-IPLC日02|v2ray
       - V1-IPLC美01|v2ray
-      - V1-俄罗斯01|v2ray
-      - V1-俄罗斯02|v2ray
       - V1-广台奈飞专用01|v2ray
       - V1-新加坡HKG01|v2ray
       - V1-新加坡OVH01|v2ray
-      - V1-新加坡OVH02|v2ray
       - V1-新加坡OVH03|v2ray
       - V1-新加坡解锁01|v2ray
       - V1-新加坡解锁02|v2ray
       - V1-日本BTEC01解锁奈飞|v2ray
+      - V1-法国01|v2ray
+      - V1-美国OVH02|v2ray
+      - V1-美国洛杉矶02|v2ray
       - V1-香港HKG01解锁奈飞|v2ray
       - V1-香港非解锁自有机房01|v2ray
       - V2-CN2台01|v2ray
@@ -618,19 +618,17 @@ proxy-groups:
       - V2-CN2日01|v2ray
       - V2-CN2日02|v2ray
       - V2-CN2美01|v2ray
-      - V2-俄罗斯01|v2ray
-      - V2-俄罗斯02|v2ray
       - V2-新加坡HKG01|v2ray
       - V2-新加坡OVH01|v2ray
-      - V2-新加坡OVH02|v2ray
       - V2-新加坡OVH03|v2ray
       - V2-新加坡解锁01|v2ray
       - V2-新加坡解锁02|v2ray
       - V2-日本BTEC01解锁奈飞|v2ray
+      - V2-法国01|v2ray
+      - V2-美国OVH02|v2ray
+      - V2-美国洛杉矶02|v2ray
       - V2-香港HKG01解锁奈飞|v2ray
       - V2-香港非解锁自有机房01|v2ray
-      - V3-俄罗斯01|v2ray
-      - V3-俄罗斯02|v2ray
       - V3-广台01|v2ray
       - V3-广台02|v2ray
       - V3-广日01|v2ray
@@ -639,19 +637,18 @@ proxy-groups:
       - V3-新加坡OVH01|v2ray
       - V3-新加坡OVH02|v2ray
       - V3-新加坡OVH03|v2ray
-      - V3-新加坡OVH04|v2ray
       - V3-新加坡OVH05|v2ray
       - V3-新加坡解锁01|v2ray
       - V3-新加坡解锁02|v2ray
       - V3-日本BTEC01解锁奈飞|v2ray
       - V3-日本BTEC02解锁奈飞|v2ray
       - V3-沪日02|v2ray
+      - V3-法国01|v2ray
+      - V3-美国OVH04|v2ray
+      - V3-美国洛杉矶02|v2ray
       - V3-香港HKG01解锁奈飞|v2ray
       - V3-香港HKG02解锁奈飞|v2ray
       - V3-香港非解锁自有机房01|v2ray
-      - V4-俄罗斯01|v2ray
-      - V4-俄罗斯02|v2ray
-      - V4-俄罗斯03|v2ray
       - V4-台湾01|v2ray
       - V4-台湾02|v2ray
       - V4-广日01|v2ray
@@ -659,11 +656,14 @@ proxy-groups:
       - V4-新加坡OVH01|v2ray
       - V4-新加坡OVH02|v2ray
       - V4-新加坡OVH03|v2ray
-      - V4-新加坡OVH04|v2ray
       - V4-新加坡解锁01|v2ray
       - V4-日本BTEC01解锁奈飞|v2ray
       - V4-日本BTEC02解锁奈飞|v2ray
       - V4-沪日02|v2ray
+      - V4-法国01|v2ray
+      - V4-美国OVH04|v2ray
+      - V4-美国洛杉矶02|v2ray
+      - V4-美国洛杉矶03|v2ray
       - V4-香港HKG01解锁奈飞|v2ray
       - V4-香港HKG02解锁奈飞|v2ray
       - V4-香港非解锁自有机房01|v2ray
